@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean UseSPSandPPS = false;
 
     private final static String SD_PATH = Environment.getExternalStorageDirectory().getPath();
-    private final static String H264_FILE = SD_PATH + "/foreman_cif.h264";
+    private final static String H264_FILE = SD_PATH + "/H264.h264";
 
     @RequiresApi(api = Build.VERSION_CODES.JELLY_BEAN)
     @Override
